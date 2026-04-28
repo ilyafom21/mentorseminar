@@ -8,7 +8,7 @@
 
 ## Кластер Yandex Data Processing
 
-![Cloud](screenshots/yandex_cloud.png)
+<img src="./screenshots/yandex_cloud.png" width="900"/>
 
 ## Реализовано
 
@@ -23,4 +23,4 @@
 
 ## Результат выполнения
 
-![Result](screenshots/zeppelin.png)
+<img src="./screenshots/zeppelin.png" width="900"/>
