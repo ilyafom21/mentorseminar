@@ -8,7 +8,8 @@
 
 ## Кластер Yandex Data Processing
 
-<img src="./screenshots/yandex_cloud.png" width="900"/>
+<img width="1091" height="923" alt="image" src="https://github.com/user-attachments/assets/89c5efd9-d7c1-4bb4-983a-90ff792e9410" />
+
 
 ## Реализовано
 
@@ -23,4 +24,4 @@
 
 ## Результат выполнения
 
-<img src="./screenshots/zeppelin.png" width="900"/>
+<img width="510" height="866" alt="zeppelin" src="https://github.com/user-attachments/assets/14d6323f-51cf-451c-a44c-e95c6c9ee785" />
